@@ -4,9 +4,9 @@ This is a useful thing for laptops. You know, it's very bad when you discharge y
 ___
 
 ## Features
-- setting a high and low battery level to showing notifications
+- setting the high and low battery level to showing notifications
 - setting the time to check the percentage level of battery charge
-- showing notifications about battery level
+- showing notifications about the battery level
 
 ### There is 2 version for
 - ubuntu (ubuntu folder)

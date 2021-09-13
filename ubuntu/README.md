@@ -6,7 +6,9 @@ sudo apt install acpi
 2. Download the bat_charge_monitor.sh script
 3. Put these scripts to some folder (for example "/home/<yourusername>/battery_charge_monitor", if nevessary, create the folder you want)
 4. Open the "startup applications preferences" in the application list
+  
 ![startup](/ubuntu/startup_application_preferences.png)
+  
 5. Click the button "add"
 6. Write a name of a startup program
 ![adding](/ubuntu/add_startup_program.png)

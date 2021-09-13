@@ -1,15 +1,19 @@
 # Instruction for ubuntu
-1. Download bat_charge_monitor.sh script
-2. Put these scripts to some folder (for example "/home/<yourusername>/battery_charge_monitor", if need create the folder whatever you want)
-3. Open "startup applications preferences" in an application list
+1. If you don't have the acpi package, you should install it. Run this command
+```sh
+sudo apt install acpi 
+```
+2. Download the bat_charge_monitor.sh script
+3. Put these scripts to some folder (for example "/home/<yourusername>/battery_charge_monitor", if nevessary, create the folder you want)
+4. Open the "startup applications preferences" in the application list
 ![startup](/ubuntu/startup_application_preferences.png)
-4. Press a button "add"
-5. Write a name of a startup  program
+5. Click the button "add"
+6. Write a name of a startup program
 ![adding](/ubuntu/add_startup_program.png)
-6. Press a button "browse" in front of a "command" field
-7. Choose bat_charge_monitor.sh script where you replaced one in the 2 step
-8. Press button "add"
-8. Reboot 
+7. Click the button "browse" next to the "command" field
+8. Select the bat_charge_monitor.sh script (the 3d step)
+9. Click the button "add"
+10. Reboot 
 ## Change parameters 
 If you want change parametrs of a low or high level battery charge and checking time you should follow the next steps
 1. Open your folder ("/home/<yourusername>/battery_charge_monitor") where bat_charge_monitor.sh script is placed

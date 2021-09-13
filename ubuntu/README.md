@@ -11,7 +11,9 @@ sudo apt install acpi
   
 5. Click the button "add"
 6. Write a name of a startup program
+  
 ![adding](/ubuntu/add_startup_program.png)
+  
 7. Click the button "browse" next to the "command" field
 8. Select the bat_charge_monitor.sh script (the 3d step)
 9. Click the button "add"

@@ -30,4 +30,4 @@ If you want change parametrs of a low or high level battery charge and checking 
 ![charged](/ubuntu/charged.png "charged")
 ![discharged](/ubuntu/discharged.png "discharged")
 
-There is also an sound alert that does something like this "peak peak peak"
+There is also an sound alert that does something like this "peak peak peak".

@@ -20,8 +20,8 @@ sudo apt install acpi
 10. Reboot 
 ## Change parameters 
 If you want change parametrs of a low or high level battery charge and checking time you should follow the next steps
-1. Open your folder ("/home/<yourusername>/battery_charge_monitor") where bat_charge_monitor.sh script is placed
-2. Open battery_monitor.ps1 script to change 
+1. Open your folder ("/home/<yourusername>/battery_charge_monitor") where the bat_charge_monitor.sh script is placed
+2. Open the bat_charge_monitor.sh script to change 
 3. There is three variables: high_level, low_level, timeout. high_level is for a high battery charge level in percent, low_level is for a low battery charge level in percent, timeout is time of checking battery charge level in seconds. You need change this variables to your requirements
 4. Save file
 5. Reboot

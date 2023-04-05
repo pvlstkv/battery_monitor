@@ -8,7 +8,7 @@ ___
 - setting the time to check the percentage level of battery charge
 - showing notifications about the battery level
 
-### There is 2 version for
+### There are 2 version for
 - ubuntu (ubuntu folder)
 - windows 10 (win10 folder)
 
